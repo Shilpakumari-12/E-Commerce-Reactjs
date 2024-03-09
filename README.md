@@ -1,6 +1,6 @@
 # Welcome to E-commerce website 
 
-## 🛍️ Your Ultimate Online Shopping Destination! 🚀
+## 🛍️Your Ultimate Online Shopping Destination! 🚀
 
 ### About Us
 Welcome to my shopping website, your digital haven for all things fabulous! We're not just another e-commerce platform; we're your personal shopper, your fashion guru, and your tech-savvy best friend, all rolled into one!
